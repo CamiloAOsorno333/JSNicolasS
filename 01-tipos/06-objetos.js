@@ -1,4 +1,4 @@
-//los objetos son una agrupación que hacen sentido tenerlos juntos, ej del lapiz o una persona
+//los objetos son una agrupación de datos que hacen sentido tenerlos juntos, ej del lapiz o una persona
 
 //Personaje de Tv
 let nombre= "Tanjiro";
