@@ -19,3 +19,4 @@ console.log(a);
 console.log(--a);
 console.log(a--);
 console.log(a);
+console.log("sigue luchando, con la ayuda de Dios");
