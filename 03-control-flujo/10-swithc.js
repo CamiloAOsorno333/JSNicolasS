@@ -7,4 +7,7 @@ switch (accion){
     case 'Guardar':
         console.log('Acción de guardar');    
         break;
+    default:
+        console.log('Acción no reconocida');  
+
 }
