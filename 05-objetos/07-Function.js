@@ -24,4 +24,5 @@ let punto={z:7};
 
 Punto.apply(punto, [1,2]);   //nos permite extende objetos antes definidos
 
-console.log(punto);
+console.log(punto); //se imprime así xq lo complento la función punto con el comando apply
+
