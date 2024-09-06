@@ -1,0 +1,14 @@
+body{
+        background-image: url(marioBebe.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        /*opacity: 0.5;*/
+        
+    }
+h1{
+    color:red;
+    }
+
+table th{
+    background-color: rgb(106, 106, 223);
+}
